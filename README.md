@@ -10,5 +10,5 @@
 ## 5) Now add your name and class to the Names.md file
 ## 6)Save the file 
 ## 7)type ```git add *```
-## 8)git commit -m "feat: added <your-name>
-## 9)git push 
+## 8)``` git commit -m "feat: added <your-name>```
+## 9)```git push ```
