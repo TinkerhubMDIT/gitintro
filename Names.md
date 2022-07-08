@@ -1,7 +1,7 @@
  * sreehari jayaraj
-   s4 cse
-* Rithin Lehan <br>
    S4 CSE
-   Muhammed Falah MPM
+* Rithin Lehan 
+   S4 CSE
+  * Muhammed Falah MPM
    S4 CSE
 
